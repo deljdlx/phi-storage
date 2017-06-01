@@ -1,0 +1,13 @@
+{
+	"name": "phi-storage",
+	"description": "Phi storage",
+
+	"autoload": {
+		"psr-4": {
+			"Phi\\Storage\\": "source/class"
+		},
+		"files": [
+
+		]
+	}
+}
